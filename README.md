@@ -1,1 +1,2 @@
-# 이화통계학회 ESAA 10기 YB 활동
+# ESAA-10th
+이화통계학회 ESAA 10기 YB
